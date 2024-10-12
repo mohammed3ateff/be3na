@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+   
+   <!-- Home Page -->
+   <url>
+      <loc>https://be3na.com/</loc>
+      <lastmod>2024-09-23</lastmod>
+      <priority>1.0</priority>
+      <changefreq>daily</changefreq>
+   </url>
+
+   <!-- Signup Page -->
+   <url>
+      <loc>https://seller.be3na.com/signup</loc>
+      <lastmod>2024-09-23</lastmod>
+      <priority>0.8</priority>
+      <changefreq>monthly</changefreq>
+   </url>
+
+   <!-- Login Page -->
+   <url>
+      <loc>https://seller.be3na.com/login</loc>
+      <lastmod>2024-09-23</lastmod>
+      <priority>0.8</priority>
+      <changefreq>monthly</changefreq>
+   </url>
+
+</urlset>
